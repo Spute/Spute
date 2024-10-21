@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Spute
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, 我是非鱼
+- 👀 我的兴趣是游戏
+- 🌱 我在学习写作
+- 💞️ 我想参与有趣的项目
+- 📫 email: feiyu.xin@qq.com
 
 <!---
 Spute/Spute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
